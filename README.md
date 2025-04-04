@@ -1,1 +1,0 @@
-# NetflixGPT is the AI-powered app.
