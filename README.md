@@ -2,8 +2,11 @@
 - Installed vite with react
 - Configured tailwind 
 - Built Header
+- Routing of App
 - Login Form
 - Signup Form
+- Form Validation
+- useRef Hook
 
 
 # Features
@@ -18,7 +21,7 @@
         -Tailer in Background
         -title description 
         -movie suggestions
-            -movielist*n (vertical scrool)
+            -movielist*n (vertical scroll)
 
 -NetflixGPT
     -search bar
